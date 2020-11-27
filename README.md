@@ -5,7 +5,9 @@ pipe characters for each digit. Each digit is shown below
 
 
 ._.   ...   ._.   ._.   ...   ._.   ._.   ._.   ._.   ._.
+
 |.|   ..|   ._|   ._|   |_|   |_.   |_.   ..|   |_|   |_|
+
 |_|   ..|   |_.   ._|   ..|   ._|   |_|   ..|   |_|   ..|
 
 
@@ -13,6 +15,8 @@ pipe characters for each digit. Each digit is shown below
 Example: 910
 
 ._. ... ._.
+
 |_| ..| |.|
+
 ..| ..| |_|
 [Source: cyber-dojo.org]
